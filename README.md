@@ -18,6 +18,7 @@ If the library proves to be useful, it will become an own searchable app with ad
 | [Giving Collections a voice](https://timacdonald.me/giving-collections-a-voice/) | Eloquent ORM > Collection | Advanced | ✏️ | |
 | [10 Hidden Laravel Eloquent Features You May Not Know](https://medium.com/@JinoAntony/10-hidden-laravel-eloquent-features-you-may-not-know-efc8ccc58d9e) | Eloquent ORM | Beginner | ✏️ |
 | [Disable Laravel Model Events On Factories](https://paulund.co.uk/disable-laravel-model-events-on-factories) | Testing > Database | Advanced | ✏️ | |
+| [Improving Query Performance with Database Indexing ](https://deliciousbrains.com/optimizing-laravel-database-indexing-performance/) | Database > Migrations | Beginner | ✏️ | |
 
 
 

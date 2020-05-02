@@ -1,6 +1,11 @@
 # 📕 Laravel Library
 This is a curated library of articles and tutorials on Laravel. It follows the structure of the [official Laravel documentation](https://laravel.com/docs/master).
 
+It is a minimal viable solution to a wish you may share: 
+> As a Laravel developer I want to find the best articles that elaborate on topics in the official documentation.
+
+If the library proves to be useful, it will become an own searchable app with added value. 
+
 ## Items (in the library shelves)
 | Title + Link | Section | Level   | Type | Tags  |
 | :----------- | :------ | :-------| :--- | :------ |

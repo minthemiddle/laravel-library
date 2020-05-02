@@ -19,6 +19,8 @@ If the library proves to be useful, it will become an own searchable app with ad
 
 
 ## Contributing
+
+### Add content
 - This library is very grateful for contributions, preferably as pull requests. (If you are just starting contributing to open source and don't know how to create a pull request, you can also create an issue).
 - Please only contribute _original content_
 - Please follow the _content template_
@@ -36,6 +38,9 @@ If the library proves to be useful, it will become an own searchable app with ad
 | :----------- | :------ | :-------| :--- | :------ |
 | [Handle incoming mail in Laravel](https://johnbraun.blog/posts/incoming-mail-laravel-mailbox) | Mail | Advanced | ✏️ | – |
 | [Date Ranges in Laravel](https://medium.com/@palypster/ranges-in-laravel-7-using-postgresql-c4bc69b91758) | Misc | Advanced | ✏️ | PostgreSQL | 
+
+### Collaborate on the library app
+If you want to bring this vision to the next level with me, please send me a direct message on Twitter: [@martin_betz](https://twitter.com/Martin_Betz)
 
 ### Sections
 

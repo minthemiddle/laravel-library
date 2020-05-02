@@ -14,6 +14,7 @@ If the library proves to be useful, it will become an own searchable app with ad
 | [Using Eloquent Query Scopes in Laravel](https://www.csrhymes.com/2019/12/29/using-eloquent-query-scopes.html) | Eloquent ORM > Getting Started | Advanced | ✏️ |  |
 | [Abstracting Laravel Dependencies](https://mattdoescode.com/articles/abstracting-laravel-dependencies-2019-12-14) | Misc | Advanced | ✏️ |  |
 | [Dynamic relationships in Laravel using subqueries](https://reinink.ca/articles/dynamic-relationships-in-laravel-using-subqueries#can-this-be-done-with-a-has-one) | Eloquent ORM > Relationships | Advanced | ✏️ |  |
+| [Simple Record History Tracking with Laravel Observers](https://medium.com/sammich-shop/simple-record-history-tracking-with-laravel-observers-48a2e3c5698b) | Eloquent ORM > Getting Started | Beginner | ✏️ | Observer |
 
 
 

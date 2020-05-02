@@ -17,6 +17,7 @@ If the library proves to be useful, it will become an own searchable app with ad
 | [Simple Record History Tracking with Laravel Observers](https://medium.com/sammich-shop/simple-record-history-tracking-with-laravel-observers-48a2e3c5698b) | Eloquent ORM > Getting Started | Beginner | ✏️ | Observer |
 | [Giving Collections a voice](https://timacdonald.me/giving-collections-a-voice/) | Eloquent ORM > Collection | Advanced | ✏️ | |
 | [10 Hidden Laravel Eloquent Features You May Not Know](https://medium.com/@JinoAntony/10-hidden-laravel-eloquent-features-you-may-not-know-efc8ccc58d9e) | Eloquent ORM | Beginner | ✏️ |
+| [Disable Laravel Model Events On Factories](https://paulund.co.uk/disable-laravel-model-events-on-factories) | Testing > Database | Advanced | ✏️ | |
 
 
 
